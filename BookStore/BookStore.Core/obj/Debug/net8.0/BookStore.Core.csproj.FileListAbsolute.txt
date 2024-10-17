@@ -1,0 +1,11 @@
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfoInputs.cache
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.AssemblyInfo.cs
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.csproj.CoreCompileInputs.cache
+G:\ReactTS\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.deps.json
+G:\ReactTS\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.dll
+G:\ReactTS\BookStore\BookStore.Core\bin\Debug\net8.0\BookStore.Core.pdb
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.dll
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\refint\BookStore.Core.dll
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\BookStore.Core.pdb
+G:\ReactTS\BookStore\BookStore.Core\obj\Debug\net8.0\ref\BookStore.Core.dll

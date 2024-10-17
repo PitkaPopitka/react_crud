@@ -1,0 +1,17 @@
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Business.deps.json
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Business.dll
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Business.pdb
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Core.dll
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Data.dll
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Data.pdb
+G:\ReactTS\BookStore\BookStore.Business\bin\Debug\net8.0\BookStore.Core.pdb
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.csproj.AssemblyReference.cache
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.AssemblyInfoInputs.cache
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.AssemblyInfo.cs
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.csproj.CoreCompileInputs.cache
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStor.755CA0AD.Up2Date
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.dll
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\refint\BookStore.Business.dll
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\BookStore.Business.pdb
+G:\ReactTS\BookStore\BookStore.Business\obj\Debug\net8.0\ref\BookStore.Business.dll
